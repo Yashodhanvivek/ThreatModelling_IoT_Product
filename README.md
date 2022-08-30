@@ -4,4 +4,4 @@ This repository contains a whitepaper Threat Model and Security Objectives docum
 
 Author : Yashodhan Vivek
 
-Courtesy : Payatu Security 
+Courtesy : Payatu Security. Publicly available at https://payatu.com/ebooks/threat-model-and-security-objective 
